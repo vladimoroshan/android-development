@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="selected_language">&#127482;&#127480; English</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="hint_enter_details">Enter Details</string>
+    <string name="hint_enter_title">Enter Title</string>
+    <string name="cta_if_no_notes">Add a new note using  + </string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_save">Save</string>
+    <string name="title_search">Search</string>
+    <string name="title_add_new_note">Add New</string>
+    <string name="sample_text_description">Sample Text Description</string>
+    <string name="title_edit">Edit</string>
+</resources>

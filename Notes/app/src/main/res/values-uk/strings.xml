@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="selected_language">&#127482;&#127462; Українська</string>
+    <string name="title_save">Зберегти</string>
+    <string name="title_search">Пошук</string>
+    <string name="title_add_new_note">Додати нову нотатку</string>
+    <string name="title_edit">Редагувати</string>
+    <string name="cta_if_no_notes">Додайте нову нотатку за допомогою +</string>
+    <string name="title_cancel">Скасувати</string>
+    <string name="hint_enter_title">Введіть заголовок</string>
+    <string name="hint_enter_details">Введіть опис</string>
+    <string name="app_name">Нотатки</string>
+    <string name="title_activity_detail">Подробиці</string>
+    <string name="sample_text_description">Зразок опису тексту</string>
+</resources>
